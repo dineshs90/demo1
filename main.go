@@ -17,6 +17,6 @@ func main() {
 
 	//fmt.Println(dog.WhenGrownUp("test")) //direct call
 
-	//fmt.Println(test.BigBark())
+	//fmt.Println()
 	//fmt.Println(test.BigBarks())
 }
