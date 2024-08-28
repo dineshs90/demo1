@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	test "github.com/dineshs90/demo2"
+	test "github.com/dineshs90/demo2/v3"
 )
 
 func main() {
-
+	test.From11()
 	fmt.Println("Test")
 	s1 := test.Bark()
 	s2 := test.Barks()
